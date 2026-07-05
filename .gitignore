@@ -1,2 +1,2 @@
-output/*
-!output/README.md
+__pycache__/
+*.pyc
