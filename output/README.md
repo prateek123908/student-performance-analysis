@@ -1,1 +1,0 @@
-This file contains generated output files created after running the project.
